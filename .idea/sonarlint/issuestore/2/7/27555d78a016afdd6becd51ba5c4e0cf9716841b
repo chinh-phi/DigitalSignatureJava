@@ -1,0 +1,4 @@
+
+R	java:S107x"=Method has 20 parameters, which is greater than 7 authorized.(½Õ¹µ
+Q	java:S125X"<This block of commented-out lines of code should be removed.(ÆÏ‡„
+R	java:S125¶"<This block of commented-out lines of code should be removed.(ÆÏ‡„

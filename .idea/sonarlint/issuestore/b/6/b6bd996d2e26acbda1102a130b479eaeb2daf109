@@ -1,0 +1,13 @@
+
+}
+java:S1488"bImmediately return this expression instead of assigning it to the temporary variable "cipherText".(¢¹Øıÿÿÿÿ
+w
+java:S1488%"aImmediately return this expression instead of assigning it to the temporary variable "plainText".(ù¨¦¨
+x
+java:S1488^"bImmediately return this expression instead of assigning it to the temporary variable "cipherText".(ãÄöí
+<
+java:S1170"!Make this final field static too.(¡íÈşÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ç“Æ¤ÿÿÿÿÿ
+m
+java:S3776b"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¨¥ûÉûÿÿÿÿ

@@ -1,0 +1,18 @@
+
+k	java:S117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄŸ‰Öþÿÿÿÿ
+k	java:S117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ßÃˆüÿÿÿÿ
+l	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«žôìýÿÿÿÿ
+z
+java:S1488Ó"^Immediately return this expression instead of assigning it to the temporary variable "digest".(¨ßçÖÿÿÿÿÿ
+a
+java:S2184w"FCast one of the operands of this multiplication operation to a "long".(ÄŸ‰Öþÿÿÿÿ
+B
+java:S1197
+",Move the array designators [][] to the type.(Û‹Ýˆ
+E
+java:S1197"*Move the array designators [] to the type.(ïù¾ªøÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(ú—ûêýÿÿÿÿ
+V	java:S125w"<This block of commented-out lines of code should be removed.(ÄŸ‰Öþÿÿÿÿ
+i	java:S100î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿±Ãˆûÿÿÿÿ
+d	java:S100ò"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô¯åÀ

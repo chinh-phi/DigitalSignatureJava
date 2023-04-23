@@ -1,0 +1,20 @@
+
+g	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8û¼ê„ó0
+g	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ê„ó„ó0
+g	java:S112/"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ê„ó„ó0
+7
+java:S1220""Move this file to a named package.8š¿æò0
+W	java:S125"<This block of commented-out lines of code should be removed.(Ääå8¾ıè„ó0
+Z
+java:S1854"=Remove this useless assignment to local variable "publicKey".(ù–Ì¥8‰™ë„ó0
+_
+java:S1854%"BRemove this useless assignment to local variable "signatureBytes".(Ã‹Æ¥8Öò„ó0
+f
+java:S2147,"DCombine this catch with the one at line 42, which has the same body.(‹µ×‡øÿÿÿÿ8Ö„ó„ó0
+f
+java:S2147."DCombine this catch with the one at line 44, which has the same body.(“³Ûİüÿÿÿÿ8×„ó„ó0
+K
+java:S1481".Remove this unused "publicKey" local variable.(ù–Ì¥8‹™ë„ó0
+P
+java:S1481%"3Remove this unused "signatureBytes" local variable.(Ã‹Æ¥8Úò„ó0
+X	java:S1251"<This block of commented-out lines of code should be removed.( àÄ´8šè„ó0

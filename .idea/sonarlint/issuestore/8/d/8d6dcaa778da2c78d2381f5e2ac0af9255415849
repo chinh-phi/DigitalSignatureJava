@@ -1,0 +1,203 @@
+
+R
+java:S3740ׂ
+"/Provide the parametrized type for this generic.(ג׃ויüÿÿÿÿ8•׳ההע0
+{
+java:S1192µ"XUse already-defined constant 'PREFERRED_ENCODING' instead of duplicating its value here.(ִ°׃ט‎ÿÿÿÿ8—׳ההע0
+s	java:S117ע"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ýח¡ÿÿÿÿÿ8׳ההע0
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ²„¾8׳ההע0
+n	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ²„¾8׳ההע0
+_
+java:S2259»"AA "NullPointerException" could be thrown; "out" is nullable here.(ל…ע­8טÞההע0
+h
+java:S2259µ"EA "NullPointerException" could be thrown; "encoded" is nullable here.(ִ°׃ט‎ÿÿÿÿ8טÞההע0
+_
+java:S2259
+"BA "NullPointerException" could be thrown; "gzis" is nullable here.(“­׀s8טÞההע0
+`
+java:S2259"BA "NullPointerException" could be thrown; "gzos" is nullable here.(ָüתְ8ßÞההע0
+_
+java:S2259׳"AA "NullPointerException" could be thrown; "out" is nullable here.(ל…ע­8טÞההע0
+^
+java:S2259­"AA "NullPointerException" could be thrown; "oos" is nullable here.(Ü‰₪B8טÞההע0
+d
+java:S2259"AA "NullPointerException" could be thrown; "bos" is nullable here.(‡ךֹüûÿÿÿÿ8חÞההע0
+d
+java:S2259"AA "NullPointerException" could be thrown; "bis" is nullable here.(טûֲֶשÿÿÿÿ8טÞההע0
+d
+java:S2259ך"AA "NullPointerException" could be thrown; "bis" is nullable here.(טûֲֶשÿÿÿÿ8טÞההע0
+_
+java:S2259ז
+"AA "NullPointerException" could be thrown; "ois" is nullable here.(ֽ”°¢8חÞההע0
+`
+java:S2259®"BA "NullPointerException" could be thrown; "gzos" is nullable here.(ָüתְ8טÞההע0
+d
+java:S2259­"AA "NullPointerException" could be thrown; "bos" is nullable here.(‡ךֹüûÿÿÿÿ8חÞההע0
+Z
+java:S2589ם	"7Remove this expression which always evaluates to "true"(¬µײ‏ÿÿÿÿ8טÞההע0
+
+java:S1186÷"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ף†×װ8סÞההע0
+t
+java:S1845¬"QRename method "encode" to prevent any misunderstanding/clash with field "ENCODE".(ü¾בüÿÿÿÿ8ףÞההע0
+n
+java:S1845ִ"QRename method "encode" to prevent any misunderstanding/clash with field "ENCODE".(¥üׁ\8ףÞההע0
+o
+java:S1845Þ"QRename method "decode" to prevent any misunderstanding/clash with field "DECODE".( ײ–ב8ףÞההע0
+o
+java:S1845ü"QRename method "decode" to prevent any misunderstanding/clash with field "DECODE".(ֻ ע±8ףÞההע0
+o
+java:S1845ַ	"QRename method "decode" to prevent any misunderstanding/clash with field "DECODE".(÷ֻÚ8ףÞההע0
+n
+java:S1845״	"QRename method "decode" to prevent any misunderstanding/clash with field "DECODE".(עכû8ףÞההע0
+;
+java:S1118÷"Hide this public constructor.(ף†×װ8‏Þההע0
+h
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ׂ¡‹’üÿÿÿÿ8€ßההע0
+h
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(±ַֹ·שÿÿÿÿ8€ßההע0
+h
+java:S1124£"EReorder the modifiers to comply with the Java Language Specification.(טך‰¼‎ÿÿÿÿ8ßההע0
+h
+java:S1124§"EReorder the modifiers to comply with the Java Language Specification.(רט׃גÿÿÿÿÿ8ßההע0
+h
+java:S1124×"EReorder the modifiers to comply with the Java Language Specification.(צט¥—üÿÿÿÿ8ßההע0
+c
+java:S1124®"EReorder the modifiers to comply with the Java Language Specification.(‰ךט¦8ßההע0
+c
+java:S1124¸"EReorder the modifiers to comply with the Java Language Specification.(ֹיײ¼8ßההע0
+h
+java:S1124¿"EReorder the modifiers to comply with the Java Language Specification.(ך־ל«‎ÿÿÿÿ8‚ßההע0
+c
+java:S1124ֶ"EReorder the modifiers to comply with the Java Language Specification.(¦¦ִׂ8‚ßההע0
+h
+java:S1124Ê"EReorder the modifiers to comply with the Java Language Specification.(סּ›תשÿÿÿÿ8‚ßההע0
+c
+java:S1124־"EReorder the modifiers to comply with the Java Language Specification.(µ¾‘8‚ßההע0
+h
+java:S1124ׂ"EReorder the modifiers to comply with the Java Language Specification.(ךג‘ûרÿÿÿÿ8‚ßההע0
+c
+java:S1124ױ"EReorder the modifiers to comply with the Java Language Specification.(כ°¨ְ8‰ßההע0
+h
+java:S1124ײ"EReorder the modifiers to comply with the Java Language Specification.(ִ·¦·ÿÿÿÿÿ8ßההע0
+c
+java:S1124Ý"EReorder the modifiers to comply with the Java Language Specification.(ֶ¼ֿÞ8‹ßההע0
+c
+java:S1124ן"EReorder the modifiers to comply with the Java Language Specification.(ֲÊü–8ßההע0
+c
+java:S1124™"EReorder the modifiers to comply with the Java Language Specification.(€ַüח8ßההע0
+c
+java:S1124©"EReorder the modifiers to comply with the Java Language Specification.(¾ּ¯ֶ8ßההע0
+h
+java:S1124״"EReorder the modifiers to comply with the Java Language Specification.(—Êחָüÿÿÿÿ8ßההע0
+h
+java:S1124ך"EReorder the modifiers to comply with the Java Language Specification.(₪Üהֲÿÿÿÿÿ8™ßההע0
+h
+java:S1124›"EReorder the modifiers to comply with the Java Language Specification.(‘®ך‏תÿÿÿÿ8›ßההע0
+c
+java:S1124­"EReorder the modifiers to comply with the Java Language Specification.(׳÷צ¹8ßההע0
+^	java:S125ק"<This block of commented-out lines of code should be removed.(«ֽםמ‏ÿÿÿÿ8£ßההע0
+u
+java:S2737×"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(צ™û8´ßההע0
+E	java:S108­")Either remove or fill this block of code.(Ü‰₪B8¸ßההע0
+F	java:S108®")Either remove or fill this block of code.(ָüתְ8¸ßההע0
+K	java:S108¯")Either remove or fill this block of code.(ש¾¾’ûÿÿÿÿ8¸ßההע0
+F	java:S108°")Either remove or fill this block of code.(­¾»8¹ßההע0
+M
+java:S2093™"*Change this "try" to a try-with-resources.(¡»¢üשÿÿÿÿ8¹ßההע0
+Z
+java:S4719µ"<Replace charset name argument with StandardCharsets.US_ASCII( ¸8¼ßההע0
+Z
+java:S4719ֲ"<Replace charset name argument with StandardCharsets.US_ASCII(װסֹ¾8ֶßההע0
+p
+java:S3776ץ"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ד›˜8ָßההע0
+u
+java:S2737"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(צ™û8׀ßההע0
+F	java:S108")Either remove or fill this block of code.(ָüתְ8ׂßההע0
+K	java:S108 ")Either remove or fill this block of code.(ש¾¾’ûÿÿÿÿ8ׂßההע0
+F	java:S108¡")Either remove or fill this block of code.(­¾»8ׂßההע0
+M
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üשÿÿÿÿ8ׂßההע0
+^	java:S125«"<This block of commented-out lines of code should be removed.(˜³†üÿÿÿÿ8׃ßההע0
+Y	java:S125׳"<This block of commented-out lines of code should be removed.(¢“ֹײ8װßההע0
+Y	java:S125Ú"<This block of commented-out lines of code should be removed.(׃±־Ú8ױßההע0
+Y	java:S125 "<This block of commented-out lines of code should be removed.(גֿ8Ùßההע0
+^	java:S125­"<This block of commented-out lines of code should be removed.(װ­®שתÿÿÿÿ8Úßההע0
+^	java:S125½"<This block of commented-out lines of code should be removed.(ˆ©ß‏שÿÿÿÿ8Úßההע0
+?
+java:S1110ֱ"!Remove these useless parentheses.(„ֱµ8Úßההע0
+^	java:S125ב"<This block of commented-out lines of code should be removed.(ס¥שרÿÿÿÿ8Üßההע0
+^	java:S125ד"<This block of commented-out lines of code should be removed.(ץ¸ׂ‹תÿÿÿÿ8Üßההע0
+p
+java:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ֻ ע±8Ýßההע0
+I
+java:S1905²	"&Remove this unnecessary cast to "int".(«ּץ€‎ÿÿÿÿ8דßההע0
+o
+java:S3776״	"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(עכû8וßההע0
+Z
+java:S4719א	"<Replace charset name argument with StandardCharsets.US_ASCII(Ýר¼8חßההע0
+I
+java:S1905ן	"&Remove this unnecessary cast to "int".(¸כ׳ו‎ÿÿÿÿ8יßההע0
+F	java:S108‰
+")Either remove or fill this block of code.(­¾»8לßההע0
+E	java:S108
+")Either remove or fill this block of code.(“­׀s8ןßההע0
+K	java:S108‹
+")Either remove or fill this block of code.(¼¬ה¦רÿÿÿÿ8נßההע0
+M
+java:S2093ק	"*Change this "try" to a try-with-resources.(¡»¢üשÿÿÿÿ8נßההע0
+d
+java:S2147ב
+"FCombine this catch with the one at line 1374, which has the same body.(ü¨בי8צßההע0
+Y	java:S125ß
+"<This block of commented-out lines of code should be removed.(װד“×8‎ßההע0
+Y	java:S125ג
+"<This block of commented-out lines of code should be removed.(װד“×8‎ßההע0
+K	java:S108ו
+")Either remove or fill this block of code.(¼¬ה¦רÿÿÿÿ8‏ßההע0
+F	java:S108ז
+")Either remove or fill this block of code.(ֽ”°¢8‏ßההע0
+M
+java:S2093ֳ
+"*Change this "try" to a try-with-resources.(¡»¢üשÿÿÿÿ8‏ßההע0
+z
+java:S2737"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ֲןֻÚשÿÿÿÿ8ÿßההע0
+K	java:S108")Either remove or fill this block of code.(‡ךֹüûÿÿÿÿ8אההע0
+M
+java:S2093„"*Change this "try" to a try-with-resources.(¡»¢üשÿÿÿÿ8אההע0
+z
+java:S2737×"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ֲןֻÚשÿÿÿÿ8אההע0
+Z
+java:S4719§"<Replace charset name argument with StandardCharsets.US_ASCII(–ßנ‹8‚אההע0
+K	java:S108­")Either remove or fill this block of code.(‡ךֹüûÿÿÿÿ8‚אההע0
+M
+java:S2093₪"*Change this "try" to a try-with-resources.(¡»¢üשÿÿÿÿ8ƒאההע0
+z
+java:S2737ח"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(¶£ְüÿÿÿÿ8„אההע0
+^	java:S125ח"<This block of commented-out lines of code should be removed.(¶£ְüÿÿÿÿ8‰אההע0
+K	java:S108ך")Either remove or fill this block of code.(טûֲֶשÿÿÿÿ8‰אההע0
+M
+java:S2093ָ"*Change this "try" to a try-with-resources.(ח£ךתÿÿÿÿ8‰אההע0
+z
+java:S2737"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(¶£ְüÿÿÿÿ8אההע0
+_
+java:S4719˜"<Replace charset name argument with StandardCharsets.US_ASCII(וֹשÿÿÿÿ8אההע0
+^	java:S125"<This block of commented-out lines of code should be removed.(¶£ְüÿÿÿÿ8אההע0
+K	java:S108")Either remove or fill this block of code.(טûֲֶשÿÿÿÿ8אההע0
+M
+java:S2093…"*Change this "try" to a try-with-resources.(ח£ךתÿÿÿÿ8אההע0
+z
+java:S2737¸"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(¶£ְüÿÿÿÿ8אההע0
+_
+java:S4719µ"<Replace charset name argument with StandardCharsets.US_ASCII(ִ°׃ט‎ÿÿÿÿ8אההע0
+^	java:S125¸"<This block of commented-out lines of code should be removed.(¶£ְüÿÿÿÿ8אההע0
+K	java:S108¼")Either remove or fill this block of code.(פ¯ד‏ÿÿÿÿ8‘אההע0
+M
+java:S2093²"*Change this "try" to a try-with-resources.(¡»¢üשÿÿÿÿ8‘אההע0
+z
+java:S2737װ"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(¶£ְüÿÿÿÿ8’אההע0
+^	java:S125װ"<This block of commented-out lines of code should be removed.(¶£ְüÿÿÿÿ8’אההע0
+K	java:S108״")Either remove or fill this block of code.(פ¯ד‏ÿÿÿÿ8’אההע0
+M
+java:S2093־"*Change this "try" to a try-with-resources.(¡»¢üשÿÿÿÿ8’אההע0
+u
+java:S3776×"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(ד÷שÿÿÿÿ8–אההע0
