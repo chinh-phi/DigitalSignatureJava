@@ -26,7 +26,6 @@ import java.math.BigInteger;
 
 /**
  * @see <a href="http://www.secg.org/SEC2-Ver-1.0.pdf">...</a>
- * @author trident
  */
 public class EllipticCurve{
     

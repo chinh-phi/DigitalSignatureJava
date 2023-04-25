@@ -47,9 +47,9 @@ public class ElgamalSignature extends Signature{
         } catch (NoSuchAlgorithmException e) {
             throw new RuntimeException(e);
         }
-        BigInteger s = m.subtract(privateKey.getX().multiply(r)).multiply(k.modInverse(privateKey.getP().subtract(BigInteger.ONE))).mod(privateKey.getP().subtract(BigInteger.ONE));
-//        BigInteger s = privateKey.getX().multiply(r).add(BigInteger.ONE.mod(k)).modInverse(privateKey.getP().subtract(BigInteger.ONE));
-//        BigInteger s = k.modInverse(privateKey.getP().subtract(BigInteger.ONE)).multiply(m.subtract(privateKey.getX().multiply(r))).mod(privateKey.getP().subtract(BigInteger.ONE));
+        BigInteger s = m.subtract(privateKey.getX().multiply(r))
+                .multiply(k.modInverse(privateKey.getP().subtract(BigInteger.ONE)))
+                .mod(privateKey.getP().subtract(BigInteger.ONE));
         this.r = r;
         this.s = s;
 
@@ -72,7 +72,10 @@ public class ElgamalSignature extends Signature{
             throw new RuntimeException(e);
         }
         BigInteger v1 = publicKey.getG().modPow(m, publicKey.getP());
-        BigInteger v2 = publicKey.getY().modPow(this.r, publicKey.getP()).multiply(this.r.modPow(this.s, publicKey.getP())).mod(publicKey.getP());
+        BigInteger v2 = publicKey.getY()
+                .modPow(this.r, publicKey.getP())
+                .multiply(this.r.modPow(this.s, publicKey.getP()))
+                .mod(publicKey.getP());
         return v1.equals(v2);
     }
 }

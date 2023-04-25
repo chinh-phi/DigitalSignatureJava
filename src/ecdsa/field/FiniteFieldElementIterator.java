@@ -23,7 +23,6 @@ import java.util.Iterator;
 
 /**
  *
- * @author trident
  */
 public class FiniteFieldElementIterator implements Iterator<FiniteFieldElement>{
     

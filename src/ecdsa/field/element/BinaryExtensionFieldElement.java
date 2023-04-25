@@ -21,7 +21,6 @@ import java.util.Set;
 
 /**
  * Representing polynomial where the bit on position n represents x^n
- * @author trident
  */
 @SuppressWarnings("serial")
 public class BinaryExtensionFieldElement extends FiniteFieldElement{

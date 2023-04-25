@@ -36,7 +36,10 @@ public class ElgamalKeypairGenerator implements KeyPairGenerator{
         BigInteger g;
         do {
             g = new BigInteger(p.bitLength(), random);
-        } while (g.compareTo(BigInteger.ONE) <= 0 || g.compareTo(p.subtract(BigInteger.ONE)) >= 0 || !g.modPow(p.subtract(BigInteger.ONE).divide(BigInteger.TWO), p).equals(BigInteger.ONE));
+        } while (g.compareTo(BigInteger.ONE) <= 0 ||
+                g.compareTo(p.subtract(BigInteger.ONE)) >= 0 ||
+                !g.modPow(p.subtract(BigInteger.ONE).divide(BigInteger.TWO), p).equals(BigInteger.ONE)
+        );
         return g;
     }
 }

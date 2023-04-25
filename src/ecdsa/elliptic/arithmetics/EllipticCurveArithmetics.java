@@ -26,7 +26,6 @@ import java.math.BigInteger;
  *
  * defines class representing the arithmetics over provided elliptic curve, i.e. 
  * point addition, multiplication, doubling, belonging test
- * @author trident
  */
 public abstract class EllipticCurveArithmetics implements EllipticCurveOperator {
     

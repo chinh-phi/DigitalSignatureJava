@@ -27,7 +27,6 @@ import java.math.BigInteger;
 
 /**
  * arithmetics of elements in prime field
- * @author trident
  */
 public abstract class FiniteFieldElementArithmetics{
     

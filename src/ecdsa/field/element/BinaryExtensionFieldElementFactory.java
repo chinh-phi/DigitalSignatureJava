@@ -19,7 +19,6 @@ import java.math.BigInteger;
 
 /**
  * factory for creating BinaryExtensionFieldElement
- * @author trident
  */
 public class BinaryExtensionFieldElementFactory extends FiniteFieldElementFactory{
     

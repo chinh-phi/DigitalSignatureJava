@@ -22,7 +22,6 @@ import java.math.BigInteger;
 
 /**
  *
- * @author trident
  */
 public final class MPMStandardBehavior implements MPMBehavior{
     

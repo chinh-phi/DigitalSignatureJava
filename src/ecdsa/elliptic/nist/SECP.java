@@ -19,7 +19,6 @@ import java.math.BigInteger;
 /**
  * Recommended Elliptic Curve parameters by SECP
  * @see http://www.secg.org/sec2-v2.pdf
- * @author trident
  */
 public enum SECP {
     SECP112R1(

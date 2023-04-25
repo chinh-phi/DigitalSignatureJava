@@ -86,7 +86,11 @@ public class DSASignature extends Signature{
         }
         BigInteger u1 = hash.multiply(w).mod(publicKey.getQ());
         BigInteger u2 = r.multiply(w).mod(publicKey.getQ());
-        BigInteger v = publicKey.getG().modPow(u1, publicKey.getP()).multiply(publicKey.getY().modPow(u2, publicKey.getP())).mod(publicKey.getP()).mod(publicKey.getQ());
+        BigInteger v = publicKey.getG()
+                .modPow(u1, publicKey.getP())
+                .multiply(publicKey.getY().modPow(u2, publicKey.getP()))
+                .mod(publicKey.getP())
+                .mod(publicKey.getQ());
 
         return v.equals(r);
     }

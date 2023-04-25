@@ -16,7 +16,6 @@ import java.math.BigInteger;
 /**
  * for elliptic curves over prime finite fields the 
  * y^2 = x^3 + ax +b mod p equation is used
- * @author trident
  */
 public class ECOverPFArithmetics extends EllipticCurveArithmetics{
     

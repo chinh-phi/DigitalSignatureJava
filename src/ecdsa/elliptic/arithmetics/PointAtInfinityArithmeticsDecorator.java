@@ -24,7 +24,6 @@ import java.math.BigInteger;
 /**
  * decorator pattern usage for edge cases check while facing with 
  * points on infinity
- * @author trident
  */
 public class PointAtInfinityArithmeticsDecorator implements EllipticCurveOperator {
     

@@ -17,7 +17,6 @@ package ecdsa.field.exception;
 
 /**
  *
- * @author trident
  */
 @SuppressWarnings("serial")
 public class MultiplicativeGroupException extends RuntimeException{

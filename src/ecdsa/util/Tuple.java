@@ -17,7 +17,6 @@ package ecdsa.util;
 
 /**
  *
- * @author trident
  * @param <K> - key
  * @param <V> - value
  */

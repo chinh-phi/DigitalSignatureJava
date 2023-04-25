@@ -19,7 +19,6 @@ import java.math.BigInteger;
 
 /**
  * defines the operations on elliptic curve point
- * @author trident
  */
 public interface EllipticCurveOperator {
     /**

@@ -24,7 +24,6 @@ import java.math.BigInteger;
 
 /**
  *
- * @author trident
  */
 class PrimeFieldElementArithmetics extends FiniteFieldElementArithmetics{
     

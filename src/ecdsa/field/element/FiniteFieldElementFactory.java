@@ -19,7 +19,6 @@ import java.math.BigInteger;
 
 /**
  * factory for creating finite field elements
- * @author trident
  */
 public class FiniteFieldElementFactory {
     /**

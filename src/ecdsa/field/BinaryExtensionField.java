@@ -21,7 +21,6 @@ import java.math.BigInteger;
 
 /**
  *
- * @author trident
  */
 public class BinaryExtensionField extends FiniteField{
     

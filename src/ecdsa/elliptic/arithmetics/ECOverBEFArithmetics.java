@@ -23,7 +23,6 @@ import ecdsa.field.operator.FiniteFieldElementArithmetics;
 /**
  * for elliptic curves over prime finite fields the 
  * y^2 +xy = x^3 +ax^2 + b equation is used
- * @author trident
  */
 public class ECOverBEFArithmetics extends EllipticCurveArithmetics{
     
@@ -38,8 +37,13 @@ public class ECOverBEFArithmetics extends EllipticCurveArithmetics{
         FiniteFieldElement dy = f.add(p2.getPointY(), p1.getPointY()); //p2.y + p1.y
         FiniteFieldElement dx = f.add(p2.getPointX(), p1.getPointX()); //p2.x + p1.x 
         FiniteFieldElement m  = f.mul(dy, f.inv(dx)); // dy/dx
-        FiniteFieldElement p3x = f.add(f.add(f.add(f.add(f.mul(m, m),p1.getPointX()),p2.getPointX()),getEllipticCurve().getA()),m); // m^2 + m + p1.x + p2.x + a
-        FiniteFieldElement p3y = f.add(f.add(f.mul(m, f.add(p1.getPointX(), p3x)),p1.getPointY()),p3x); // m*(p1.x + p3.x) + p3.x + p1.y
+        FiniteFieldElement p3x =
+                f.add(
+                        f.add(f.add(f.add(f.mul(m, m),p1.getPointX()),p2.getPointX()),getEllipticCurve().getA()),
+                        m
+                ); // m^2 + m + p1.x + p2.x + a
+        FiniteFieldElement p3y =
+                f.add(f.add(f.mul(m, f.add(p1.getPointX(), p3x)),p1.getPointY()),p3x); // m*(p1.x + p3.x) + p3.x + p1.y
         return EllipticCurvePoint.create(p3x, p3y);
     }
 

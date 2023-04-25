@@ -19,7 +19,6 @@ import java.math.BigInteger;
 
 /**
  *
- * @author trident
  */
 public class PrimeField extends FiniteField{
     

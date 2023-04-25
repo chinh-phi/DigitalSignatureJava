@@ -22,7 +22,6 @@ import java.math.BigInteger;
 /**
  * defines the interface for the algorithm of multiple point multiplication
  * i.e. calculation of kP + lQ which can be optimized
- * @author trident
  */
 public interface MPMBehavior {
     

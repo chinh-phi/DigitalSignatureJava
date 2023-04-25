@@ -19,7 +19,7 @@ public class RSASignature extends Signature {
     private byte[] paddedMessage;
     private byte[] message;
 
-    public static byte[] SHA256(byte[] input) throws NoSuchAlgorithmException {
+    public static byte[]    SHA256(byte[] input) throws NoSuchAlgorithmException {
         MessageDigest digest = MessageDigest.getInstance("SHA-256");
         return digest.digest(input);
     }

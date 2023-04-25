@@ -19,7 +19,6 @@ import java.math.BigInteger;
 
 /**
  * Represents the element in finite field
- * @author trident
  */
 @SuppressWarnings("serial")
 public class FiniteFieldElement extends BigInteger{

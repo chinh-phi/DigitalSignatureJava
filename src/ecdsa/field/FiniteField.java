@@ -18,7 +18,6 @@ import java.math.BigInteger;
 
 /**
  * represents finite field
- * @author trident
  */
 public abstract class FiniteField {
     
